@@ -1,5 +1,7 @@
 # ola-ride-analytics
 OLA Ride Data Analysis – Key Insights
+
+
 Ride Demand Patterns
 
 The ride volume analysis shows that the number of rides remains relatively stable across the observed period. On average, the platform handles roughly 3,000 rides per day, with only minor fluctuations throughout the month. There are no significant spikes or sudden drops in ride demand, indicating that OLA experiences consistent usage patterns.
